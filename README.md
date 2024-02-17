@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Data Zoomcamp
 
 ### Using the starter project
 
