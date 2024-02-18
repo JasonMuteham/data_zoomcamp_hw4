@@ -73,11 +73,6 @@ models:
         tests:
             - not_null:
                 severity: error
-      
-
-  - name: dm_monthly_zone_revenue
-    description: ""
-    columns:
       - name: revenue_zone
         data_type: string
         description: ""
