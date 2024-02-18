@@ -12,7 +12,7 @@ sources:
 
 models:
   - name: stg_green_tripdata
-    description: ""
+    description: "Green Taxi Trips"
     columns:
       - name: tripid
         data_type: string
