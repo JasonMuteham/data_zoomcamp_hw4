@@ -7,7 +7,7 @@ models:
     columns:
       - name: tripid
         data_type: string
-        description: ""
+        description: "hash id"
 
       - name: dispatching_base_num
         data_type: string
